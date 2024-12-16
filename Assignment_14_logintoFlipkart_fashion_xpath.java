@@ -13,8 +13,7 @@ public class Assignment_14_logintoFlipkart_fashion_xpath {
 		driver.manage().window().maximize();
 		WebElement e1= driver.findElement(By.xpath("//span[.='Women']"));
 		e1.click();
-		
-
+	
 	}
 
 }
